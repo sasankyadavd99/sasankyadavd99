@@ -1,43 +1,9 @@
-### Hi there 👋, I'm Sasank Yadav Daliboyina!
 
-**sasankyadavd99/sasankyadavd99** is a ✨ _special_ ✨ because it's where my data science and machine learning projects come to life.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sasankyadavd99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sasankyadavd99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sasankyadavd99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on advancing machine learning techniques in healthcare and telecommunications.
-- 🌱 I’m a Master’s student in Applied Machine Intelligence at Northeastern University, pushing the envelope in Predictive Data Management and Data Mining.
-- 👯 I’m looking to collaborate on projects involving AI applications in real-world scenarios, especially those harnessing the cloud.
-- 🤔 I’m on a journey of continuous learning, especially in cloud services and large-scale machine learning models.
-- 💬 Ask me about anything related to Python, Machine Learning, Cloud Computing, and Data Analytics—I love to discuss innovative solutions and ideas!
-- 📫 How to reach me: daliboyina.s@northeastern.edu or connect with me on [LinkedIn](Your-LinkedIn-Profile-URL).
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: When I'm not crunching numbers or training models, I enjoy exploring the crossroads of technology and nature through photography.
-
-### Skills & Achievements:
-- Languages: Python, SQL, R, Java, and more.
-- Tools: Azure, AWS, Tableau, Keras, TensorFlow, JIRA, Git.
-- Recognized with the Azure Fundamentals and DP – 203 Associate Data Engineer Certificate from Microsoft Azure, and a Special Initiative Award from Tata Consultancy Services.
-- A strong advocate for data-driven decision-making, as demonstrated in my project that improved healthcare prediction accuracy by 15% and boosted fiscal strategies at Cloudport.
-
-### Projects:
-- **MEDICARE HEALTHCARE INSURANCE PREDICTION**: Employed statistical modeling and machine learning to refine healthcare strategies, which played a pivotal role in supporting ROI analysis.
-- **SALES FORECASTING AND INVENTORY OPTIMIZATION**: Utilized ARIMA and smoothing to enhance business strategy with better predictive accuracy.
-- **FOREST COMBUSTION RECOGNITION USING AI**: Pioneered the use of AI for faster and more reliable forest fire detection using a novel LLM-augmented GIS approach.
-
-I believe in the power of data to transform the world, and I'm excited to be part of that change. Let's connect and make an impact together!
-
-<!-- You can add your GitHub stats card if you like -->
-
-![Sasank's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasankyadavd99&show_icons=true&theme=radical)
-
-<!-- Add some of your best projects as pinned repos below -->
-
-### Featured Repositories:
-<!-- GitHub Repos -->
-<a href="link-to-your-repo-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sasankyadavd99&repo=repo-name-1&theme=light" />
-</a>
-<a href="link-to-your-repo-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sasankyadavd99&repo=repo-name-2&theme=light" />
-</a>
-
-
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
