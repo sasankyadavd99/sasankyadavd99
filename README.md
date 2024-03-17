@@ -99,7 +99,7 @@ Eager to broaden my knowledge further, I'm currently exploring the vast potentia
 
 ### Projects 🚀
 
-|  [Transshipment ML Model](https://github.com/sasankyadavd99/Transshipment-Model-Data-Analytics-Project)| 
+|  [Transshipment ML Model](https://github.com/sasankyadavd99/Transshipment-Model-Data-Analytics-Project)| An Enterprice Analytics | Exploratory Statistics |
 
 |  [Weather Model - Pyplot]([eai6000_m04_SasankYadavDaliboyina_hw_1.ipynb](https://github.com/sasankyadavd99/Data-Science-Projects/blob/main/eai6000_m04_SasankYadavDaliboyina_hw_1.ipynb) weathermodel
 
