@@ -1,4 +1,4 @@
-<h1 align = "center"><img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" width="50" />  Hi there, I'm Sasank Yadav Daliboyina </h1>
+<h1 align = "center"><img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" width="100" />  Hi there, I'm Sasank Yadav Daliboyina </h1>
 <p align="center">
   <a href="mailto:sasankywork99@gmail.com,daliboyina.s@northeastern.edu">
     <img src="https://img.shields.io/badge/Mail-f25030?style=for-the-badge&logoColor=white" alt="Mail Badge">
