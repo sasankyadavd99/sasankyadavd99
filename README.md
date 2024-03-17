@@ -1,4 +1,4 @@
-<h1 align = "center"><img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" width="100" />  Hi there, I'm Sasank Yadav Daliboyina </h1>
+<h1 align = "center"><img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" width="150" />  Hi there, I'm Sasank Yadav Daliboyina </h1>
 <p align="center">
   <a href="mailto:sasankywork99@gmail.com,daliboyina.s@northeastern.edu">
     <img src="https://img.shields.io/badge/Mail-f25030?style=for-the-badge&logoColor=white" alt="Mail Badge">
@@ -97,4 +97,14 @@ Eager to broaden my knowledge further, I'm currently exploring the vast potentia
 
 </p>
 
+### Projects 🚀
+
+|  [Transshipment ML Model](https://github.com/sasankyadavd99/Transshipment-Model-Data-Analytics-Project)| 
+
+|  [Weather Model - Pyplot]([eai6000_m04_SasankYadavDaliboyina_hw_1.ipynb](https://github.com/sasankyadavd99/Data-Science-Projects/blob/main/eai6000_m04_SasankYadavDaliboyina_hw_1.ipynb) weathermodel
+
+|  [Bayes classification using Gaussian distribution, Text Classification - GausianNB,MultinomialNB](https://github.com/sasankyadavd99/Data-Science-Projects/blob/main/EAI6000_Module3_SasankYadavDaliboyina_HW.ipynb) 
+
+
+---
 ---
