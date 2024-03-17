@@ -36,7 +36,9 @@ I'm currently pursuing my Master's degree in Applied Machine Intelligence at Nor
 
 Before my Master’s, I sharpened my Data Science foundation at TCS and IBM, optimizing data systems and advancing machine learning models. My industry savvy is backed by a strong academic record from GITAM in Computer Science.
 
-In my pursuit, I've decoded complex data puzzles, applying ML techniques like Random Forest and XGBoost to cut costs and prevent outages. Eager to expand my acumen in cloud tech and deep learning, I aim to pioneer the next wave of data science innovation.
+My approach to data science is holistic; I delve into complex data challenges by scraping data from various web sources, ensuring thorough data cleaning to maintain integrity. I employ a range of visualization techniques, from intricate heatmaps that reveal hidden patterns to dynamic line graphs that track trends over time, facilitating a deeper understanding of the underlying data. Through these methods, alongside rigorous statistical analysis, I lay the groundwork for ML models that are not only predictive but also prescriptive, capable of driving substantial cost reductions and averting potential system outages.
+
+Eager to broaden my knowledge further, I'm currently exploring the vast potential of cloud technologies and deep learning. My goal is to spearhead the next frontier of data science innovation, equipped with advanced techniques such as Random Forest and XGBoost, and a keen eye for the impactful application of data visualizations and statistical principles in machine learning.
 
 📫 Reach out to me at daliboyina.s@northeastern.edu for collaborations and discussions.
 
