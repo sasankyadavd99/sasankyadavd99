@@ -40,7 +40,7 @@ My approach to data science is holistic; I delve into complex data challenges by
 
 Eager to broaden my knowledge further, I'm currently exploring the vast potential of cloud technologies and deep learning. My goal is to spearhead the next frontier of data science innovation, equipped with advanced techniques such as Random Forest and XGBoost, and a keen eye for the impactful application of data visualizations and statistical principles in machine learning.
 
-📫 Reach out to me at daliboyina.s@northeastern.edu for collaborations and discussions.
+📫 Reach out to me at daliboyina.s@northeastern.edu or sasankywork89@gmail.com for collaborations and discussions.
 
 ---
 
